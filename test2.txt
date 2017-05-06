@@ -1,0 +1,63 @@
+Tacoma Tacoma 1
+
+Tacoma BrownsPoint 7
+
+Tacoma Hilltop 3
+
+Tacoma FernHill 4
+
+Downtown BrownsPoint 5
+
+Downtown Madrona 7
+
+Downtown FernHill 5
+
+Downtown Westgate 2
+
+BrownsPoint FernHill 7
+
+BrownsPoint Proctor 4
+
+BrownsPoint Foss 8
+
+Hilltop Proctor 2
+
+Hilltop Edison 6
+
+OldTown Proctor 1
+
+OldTown FernHill 3
+
+OldTown Stadium 3
+
+OldTown Edison 5
+
+Proctor Parkland 5
+
+Madrona FernHill 3
+
+Madrona Stadium 5
+
+Madrona Westgate 6
+
+FernHill Parkland 7
+
+Stadium Parkland 4
+
+Stadium Dome 3
+
+Westgate Narows 2
+
+Westgate Dome 6
+
+Narrows Dome 1
+
+Narrows Foss 2
+
+Parkland Foss 6
+
+Parkland Edison 4
+
+Dome Foss 4
+
+Dome Edison 9
